@@ -1,0 +1,6 @@
+node_modules
+jest.config.js
+config/jest/*.ts
+integration_tests
+*.generated.*
+babel/dist/**
